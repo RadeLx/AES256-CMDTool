@@ -17,4 +17,4 @@ pip install pyinstaller
 ```
 pyinstaller --onefile main.py
 ```
-This command instructs PyInstaller to bundle the application into a single executable file. The executable will be located in the dist directory within your project folder. RENAME the executable as "AES256.exe"
+This command instructs PyInstaller to bundle the application into a single executable file. The executable will be located in the dist directory within your project folder. **RENAME** the executable as "AES256.exe"
